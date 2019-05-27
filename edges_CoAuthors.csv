@@ -1,0 +1,473 @@
+m.id,o.id,n.year_of_publication,n.Erscheinungsort,n.controversy
+02-0852,02-0716,1563,Basel,Synergistischer Streit / Erbsündenstreit
+02-0913,02-0716,1560,Basel,Abendmahlslehre und Christologie / Antitrinitarischer Streit
+02-0879,02-0755,1565,Basel,Allgemeiner Druck
+02-0879,02-0755,1575,Basel,Allgemeiner Druck
+02-0879,02-0755,1558,Basel,Allgemeiner Druck
+02-0716,02-0852,1563,Basel,Synergistischer Streit / Erbsündenstreit
+02-0755,02-0879,1558,Basel,Allgemeiner Druck
+02-0755,02-0879,1575,Basel,Allgemeiner Druck
+02-0755,02-0879,1565,Basel,Allgemeiner Druck
+02-0716,02-0913,1560,Basel,Abendmahlslehre und Christologie / Antitrinitarischer Streit
+02-0717,02-0097,1572,Eisleben,Erbsündenstreit
+02-0749,02-0097,1572,Eisleben,Erbsündenstreit
+02-0946,02-0097,1572,Eisleben,Erbsündenstreit
+02-0789,02-0652,1567,Eisleben,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0685,02-0652,1567,Eisleben,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0673,02-0654,1564,Eisleben,Allgemeiner Druck
+02-1002,02-0658,1580,Eisleben,Erbsündenstreit
+02-0654,02-0673,1564,Eisleben,Allgemeiner Druck
+02-0789,02-0685,1567,Eisleben,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0652,02-0685,1567,Eisleben,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0789,02-0685,1561,Eisleben,Abendmahlslehre und Christologie
+02-0749,02-0717,1572,Eisleben,Erbsündenstreit
+02-0097,02-0717,1572,Eisleben,Erbsündenstreit
+02-0946,02-0717,1572,Eisleben,Erbsündenstreit
+02-0717,02-0749,1572,Eisleben,Erbsündenstreit
+02-0097,02-0749,1572,Eisleben,Erbsündenstreit
+02-0946,02-0749,1572,Eisleben,Erbsündenstreit
+02-0879,02-0755,1562,Eisleben,Allgemeiner Druck
+02-0845,02-0785,1575,Eisleben,Erbsündenstreit
+02-0685,02-0789,1561,Eisleben,Abendmahlslehre und Christologie
+02-0652,02-0789,1567,Eisleben,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0685,02-0789,1567,Eisleben,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0785,02-0845,1575,Eisleben,Erbsündenstreit
+02-0755,02-0879,1562,Eisleben,Allgemeiner Druck
+02-0717,02-0946,1572,Eisleben,Erbsündenstreit
+02-0749,02-0946,1572,Eisleben,Erbsündenstreit
+02-0097,02-0946,1572,Eisleben,Erbsündenstreit
+02-0658,02-1002,1580,Eisleben,Erbsündenstreit
+02-0835,02-0784,1552,Erfurt,Osiandrischer Streit
+02-0852,02-0784,1552,Erfurt,Osiandrischer Streit
+02-0851,02-0789,1561,Erfurt,Abendmahlslehre und Christologie
+02-0784,02-0835,1552,Erfurt,Osiandrischer Streit
+02-0852,02-0835,1552,Erfurt,Osiandrischer Streit
+02-0789,02-0851,1561,Erfurt,Abendmahlslehre und Christologie
+02-0784,02-0852,1552,Erfurt,Osiandrischer Streit
+02-0835,02-0852,1552,Erfurt,Osiandrischer Streit
+02-0835,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0735,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0735,02-0238,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0879,02-0646,1557,Frankfurt a.M.,Majoristischer Streit
+02-0835,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0735,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0735,02-0663,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0835,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0735,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0735,02-0673,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0835,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0735,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0879,02-0755,1564,Frankfurt a.M.,Allgemeiner Druck
+02-0735,02-0835,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0673,02-0835,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0663,02-0835,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0238,02-0835,1561,Frankfurt a.M.,Obrigkeitliche Dokumente
+02-0879,02-0876,1568,Frankfurt a.M.,Majoristischer Streit
+02-0755,02-0879,1564,Frankfurt a.M.,Allgemeiner Druck
+02-0646,02-0879,1557,Frankfurt a.M.,Majoristischer Streit
+02-0876,02-0879,1568,Frankfurt a.M.,Majoristischer Streit
+02-0879,02-0755,1564,Frankfurt a.M.,Magdeburger Streit
+02-0879,02-0755,1564,Frankfurt a.M.,Magdeburger Streit
+02-0755,02-0879,1564,Frankfurt a.M.,Magdeburger Streit
+02-0755,02-0879,1564,Frankfurt a.M.,Magdeburger Streit
+02-0736,02-0023,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0024,02-0023,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0793,02-0023,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0941,02-0023,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0736,02-0024,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0023,02-0024,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0793,02-0024,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0941,02-0024,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0023,02-0736,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0024,02-0736,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0793,02-0736,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0941,02-0736,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0736,02-0793,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0023,02-0793,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0024,02-0793,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0941,02-0793,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-1029,02-0820,1562,Frankfurt an der Oder,Majoristischer Streit
+02-0736,02-0941,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0023,02-0941,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0024,02-0941,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0793,02-0941,1573,Frankfurt an der Oder,Abendmahlslehre und Christologie
+02-0820,02-1029,1562,Frankfurt an der Oder,Majoristischer Streit
+02-0795,02-0679,1557,Hamburg,allgemeiner Druck
+02-0679,02-0795,1557,Hamburg,allgemeiner Druck
+02-0782,02-0239,1573,Heidelberg,Abendmahlslehre und Christologie
+02-0706,02-0673,1576,Heidelberg,Abendmahlslehre und Christologie
+02-0673,02-0706,1576,Heidelberg,Abendmahlslehre und Christologie
+02-0239,02-0782,1573,Heidelberg,Abendmahlslehre und Christologie
+02-0862,02-0798,1563,Heidelberg,obrigkeitliche Dokumente
+02-0862,02-0798,1563,Heidelberg,Abendmahlslehre und Christologie
+02-0798,02-0862,1563,Heidelberg,obrigkeitliche Dokumente
+02-0798,02-0862,1563,Heidelberg,Abendmahlslehre und Christologie
+02-0716,02-0654,1558,Jena,allgemeiner Druck / Synergistischer Streit
+02-0802,02-0654,1558,Jena,Adiaphoristischer/Majoristischer Streit
+02-0741,02-0685,1571,Jena,Erbsündenstreit
+02-0879,02-0685,1571,Jena,Erbsündenstreit
+02-0789,02-0685,1571,Jena,Erbsündenstreit
+02-0851,02-0706,1564,Jena,Allgemeiner Druck
+02-0878,02-0706,1564,Jena,Allgemeiner Druck
+02-0845,02-0716,1571,Jena,Erbsündenstreit
+02-0654,02-0716,1558,Jena,allgemeiner Druck / Synergistischer Streit
+02-0755,02-0716,1560,Jena,Allgemeiner Druck
+02-0879,02-0716,1560,Jena,Allgemeiner Druck
+02-0879,02-0741,1570,Jena,Antinomistischer Streit
+02-0685,02-0741,1571,Jena,Erbsündenstreit
+02-0879,02-0741,1571,Jena,Erbsündenstreit
+02-0789,02-0741,1571,Jena,Erbsündenstreit
+02-0879,02-0755,1559,Jena,Adiaphoristischer Streit
+02-0716,02-0755,1560,Jena,Allgemeiner Druck
+02-0879,02-0755,1560,Jena,Allgemeiner Druck
+02-0741,02-0789,1571,Jena,Erbsündenstreit
+02-0685,02-0789,1571,Jena,Erbsündenstreit
+02-0879,02-0789,1571,Jena,Erbsündenstreit
+02-0654,02-0802,1558,Jena,Adiaphoristischer/Majoristischer Streit
+02-0716,02-0845,1571,Jena,Erbsündenstreit
+02-0706,02-0851,1564,Jena,Allgemeiner Druck
+02-0878,02-0851,1564,Jena,Allgemeiner Druck
+02-0706,02-0878,1564,Jena,Allgemeiner Druck
+02-0851,02-0878,1564,Jena,Allgemeiner Druck
+02-0741,02-0879,1570,Jena,Antinomistischer Streit
+02-0716,02-0879,1560,Jena,Allgemeiner Druck
+02-0755,02-0879,1560,Jena,Allgemeiner Druck
+02-0755,02-0879,1559,Jena,Adiaphoristischer Streit
+02-0741,02-0879,1571,Jena,Erbsündenstreit
+02-0685,02-0879,1571,Jena,Erbsündenstreit
+02-0789,02-0879,1571,Jena,Erbsündenstreit
+02-0734,02-0022,1576,s.l.,Erbsündenstreit
+02-0946,02-0097,1572,s.l.,Erbsündenstreit
+02-0749,02-0097,1572,s.l.,Erbsündenstreit
+02-0717,02-0097,1572,s.l.,Erbsündenstreit
+02-0833,02-0102,1568,s.l.,Abendmahlslehre und Christologie
+02-0741,02-0707,1563,s.l.,Magdeburger Streit
+02-0721,02-0716,1567,s.l.,Allgemeiner Druck
+02-0807,02-0716,1574,s.l.,Erbsündenstreit
+02-0755,02-0716,1562,s.l.,Synergistischer Streit
+02-0722,02-0716,1562,s.l.,Synergistischer Streit
+02-0879,02-0716,1562,s.l.,Synergistischer Streit
+02-0722,02-0716,1562,s.l.,Synergistischer Streit
+02-0722,02-0716,1568,s.l.,Majoristischer Streit
+02-0097,02-0717,1572,s.l.,Erbsündenstreit
+02-0946,02-0717,1572,s.l.,Erbsündenstreit
+02-0749,02-0717,1572,s.l.,Erbsündenstreit
+02-0716,02-0721,1567,s.l.,Allgemeiner Druck
+02-0716,02-0722,1562,s.l.,Synergistischer Streit
+02-0755,02-0722,1562,s.l.,Synergistischer Streit
+02-0879,02-0722,1562,s.l.,Synergistischer Streit
+02-0716,02-0722,1562,s.l.,Synergistischer Streit
+02-0716,02-0722,1568,s.l.,Majoristischer Streit
+02-0793,02-0733,1562,s.l.,Abendmahlslehre und Christologie
+02-0022,02-0734,1576,s.l.,Erbsündenstreit
+02-0707,02-0741,1563,s.l.,Magdeburger Streit
+02-0097,02-0749,1572,s.l.,Erbsündenstreit
+02-0946,02-0749,1572,s.l.,Erbsündenstreit
+02-0717,02-0749,1572,s.l.,Erbsündenstreit
+02-0716,02-0755,1562,s.l.,Synergistischer Streit
+02-0722,02-0755,1562,s.l.,Synergistischer Streit
+02-0879,02-0755,1562,s.l.,Synergistischer Streit
+02-0848,02-0782,1557,s.l.,Wormser Gespräch
+02-0733,02-0793,1562,s.l.,Abendmahlslehre und Christologie
+02-0716,02-0807,1574,s.l.,Erbsündenstreit
+02-0102,02-0833,1568,s.l.,Abendmahlslehre und Christologie
+02-0782,02-0848,1557,s.l.,Wormser Gespräch
+02-0716,02-0879,1562,s.l.,Synergistischer Streit
+02-0755,02-0879,1562,s.l.,Synergistischer Streit
+02-0722,02-0879,1562,s.l.,Synergistischer Streit
+02-0097,02-0946,1572,s.l.,Erbsündenstreit
+02-0749,02-0946,1572,s.l.,Erbsündenstreit
+02-0717,02-0946,1572,s.l.,Erbsündenstreit
+02-0800,02-0652,1551,Königsberg,Osiandrischer Streit/Widerstand gegen das Augsburger Interim
+02-0919,02-0652,1551,Königsberg,Osiandrischer Streit/Widerstand gegen das Augsburger Interim
+02-0835,02-0680,1575,Königsberg,Majoristischer Streit
+02-0789,02-0685,1567,Königsberg,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0789,02-0741,1575,Königsberg,Abendmahlslehre und Christologie
+02-0928,02-0789,1552,Königsberg,Osiandrischer Streit
+02-0865,02-0789,1552,Königsberg,Osiandrischer Streit
+02-0741,02-0789,1575,Königsberg,Abendmahlslehre und Christologie
+02-0685,02-0789,1567,Königsberg,Allgemeiner Druck / Obrigkeitliche Dokumente / Osiandrischer Streit
+02-0652,02-0800,1551,Königsberg,Osiandrischer Streit/Widerstand gegen das Augsburger Interim
+02-0919,02-0800,1551,Königsberg,Osiandrischer Streit/Widerstand gegen das Augsburger Interim
+02-0680,02-0835,1575,Königsberg,Majoristischer Streit
+02-0928,02-0865,1552,Königsberg,Osiandrischer Streit
+02-0789,02-0865,1552,Königsberg,Osiandrischer Streit
+02-1029,02-0879,1575,Königsberg,Abendmahlslehre und Christologie; Luther
+02-0652,02-0919,1551,Königsberg,Osiandrischer Streit/Widerstand gegen das Augsburger Interim
+02-0800,02-0919,1551,Königsberg,Osiandrischer Streit/Widerstand gegen das Augsburger Interim
+02-0865,02-0928,1552,Königsberg,Osiandrischer Streit
+02-0789,02-0928,1552,Königsberg,Osiandrischer Streit
+02-0879,02-1029,1575,Königsberg,Abendmahlslehre und Christologie; Luther
+02-0820,02-0716,1561,Leipzig,Synergistischer Streit
+02-0841,02-0732,1578,Leipzig,Abendmahlslehre und Christologie
+02-0841,02-0732,1577,Leipzig,Abendmahlslehre und Christologie
+02-0809,02-0782,1571,Leipzig,Abendmahlslehre und Christologie
+02-0782,02-0809,1571,Leipzig,Abendmahlslehre und Christologie
+02-0716,02-0820,1561,Leipzig,Synergistischer Streit
+02-0732,02-0841,1578,Leipzig,Abendmahlslehre und Christologie
+02-0732,02-0841,1577,Leipzig,Abendmahlslehre und Christologie
+02-0681,02-0678,1552,London,Abendmahlslehre und Christologie
+02-0766,02-0678,1552,London,Abendmahlslehre und Christologie
+02-0766,02-0681,1552,London,Abendmahlslehre und Christologie
+02-0678,02-0681,1552,London,Abendmahlslehre und Christologie
+02-0681,02-0766,1552,London,Abendmahlslehre und Christologie
+02-0678,02-0766,1552,London,Abendmahlslehre und Christologie
+02-0917,02-0194,1548,Magdeburg,Widerstand gegen das Augsburger Interim
+02-0920,02-0315,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0915,02-0580,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0916,02-0580,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-1029,02-0580,1550,Magdeburg,Abendmahlslehre und Christologie
+02-0716,02-0646,1554,Magdeburg,Majoristischer Streit
+02-0716,02-0646,1549,Magdeburg,Adiaphoristischer Streit
+02-0721,02-0654,1551,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0654,1551,Magdeburg,Adiaphoristischer Streit
+02-1029,02-0673,1554,Magdeburg,Allgemeiner Druck
+02-0800,02-0673,1548,Magdeburg,Widerstand gegen das Augsburger Interim
+02-0800,02-0673,1553,Magdeburg,Osiandrischer Streit
+02-1029,02-0676,1549,Magdeburg,Adiaphoristischer Streit
+02-1029,02-0716,1551,Magdeburg,Widerstand gegen das Augsburger Interim / Antikatholisch
+02-0646,02-0716,1554,Magdeburg,Majoristischer Streit
+02-0721,02-0716,1552,Magdeburg,Osiandrischer Streit
+02-0722,02-0716,1552,Magdeburg,Osiandrischer Streit
+02-0654,02-0716,1551,Magdeburg,Adiaphoristischer Streit
+02-0721,02-0716,1551,Magdeburg,Adiaphoristischer Streit
+02-0721,02-0716,1552,Magdeburg,Osiandrischer Streit
+02-1029,02-0716,1552,Magdeburg,Osiandrischer Streit
+02-0722,02-0716,1550,Magdeburg,Adiaphoristischer Streit
+02-0751,02-0716,1556,Magdeburg,Osiandrischer Streit
+02-1029,02-0716,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0722,02-0716,1550,Magdeburg,Adiaphoristischer Streit
+02-0722,02-0716,1550,Magdeburg,Adiaphoristischer Streit
+02-0646,02-0716,1549,Magdeburg,Adiaphoristischer Streit
+02-0789,02-0716,1557,Magdeburg,Osiandrischer Streit
+02-0936,02-0716,1555,Magdeburg,Schwenckfeld
+02-0722,02-0716,1553,Magdeburg,Adiaphoristischer Streit
+02-0722,02-0716,1550,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0721,1552,Magdeburg,Osiandrischer Streit
+02-0654,02-0721,1551,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0721,1551,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0721,1552,Magdeburg,Osiandrischer Streit
+02-0716,02-0722,1552,Magdeburg,Osiandrischer Streit
+02-0716,02-0722,1550,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0722,1550,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0722,1550,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0722,1553,Magdeburg,Adiaphoristischer Streit
+02-0716,02-0722,1550,Magdeburg,Adiaphoristischer Streit
+02-0782,02-0741,1561,Magdeburg,Abendmahlslehre und Christologie
+02-0716,02-0751,1556,Magdeburg,Osiandrischer Streit
+02-0879,02-0755,1559,Magdeburg,Adiaphoristischer Streit
+02-0879,02-0755,1562,Magdeburg,Synergistischer Streit
+02-0879,02-0755,1559,Magdeburg,Adiaphoristischer Streit
+02-0802,02-0782,1548,Magdeburg,Adiaphoristischer Streit
+02-0741,02-0782,1561,Magdeburg,Abendmahlslehre und Christologie
+02-0716,02-0789,1557,Magdeburg,Osiandrischer Streit
+02-1029,02-0789,1560,Magdeburg,Abendmahlslehre und Christologie
+02-0673,02-0800,1548,Magdeburg,Widerstand gegen das Augsburger Interim
+02-0673,02-0800,1553,Magdeburg,Osiandrischer Streit
+02-0782,02-0802,1548,Magdeburg,Adiaphoristischer Streit
+02-0755,02-0879,1559,Magdeburg,Adiaphoristischer Streit
+02-0755,02-0879,1562,Magdeburg,Synergistischer Streit
+02-0755,02-0879,1559,Magdeburg,Adiaphoristischer Streit
+02-0580,02-0915,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0916,02-0915,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0580,02-0916,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0915,02-0916,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0194,02-0917,1548,Magdeburg,Widerstand gegen das Augsburger Interim
+02-0315,02-0920,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0716,02-0936,1555,Magdeburg,Schwenckfeld
+02-0673,02-1029,1554,Magdeburg,Allgemeiner Druck
+02-0716,02-1029,1551,Magdeburg,Widerstand gegen das Augsburger Interim / Antikatholisch
+02-0716,02-1029,1552,Magdeburg,Osiandrischer Streit
+02-0676,02-1029,1549,Magdeburg,Adiaphoristischer Streit
+02-0716,02-1029,1550,Magdeburg,Antikatholisch / Adiaphoristischer Streit
+02-0580,02-1029,1550,Magdeburg,Abendmahlslehre und Christologie
+02-0789,02-1029,1560,Magdeburg,Abendmahlslehre und Christologie
+02-0934,02-0811,1555,Mainz,Adiaphoristischer Streit
+02-0811,02-0934,1555,Mainz,Adiaphoristischer Streit
+02-0840,02-0733,1564,Mühlhausen/Elsaß,Abendmahlslehre und Christologie
+02-0733,02-0840,1564,Mühlhausen/Elsaß,Abendmahlslehre und Christologie
+02-0755,02-0716,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0879,02-0716,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0791,02-0716,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0879,02-0755,1562,Mühlhausen/Elsaß,Abendmahlslehre und Christologie / allgemeiner Druck
+02-0716,02-0755,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0879,02-0755,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0791,02-0755,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0755,02-0791,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0716,02-0791,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0879,02-0791,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0755,02-0879,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0716,02-0879,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0791,02-0879,1562,Mühlhausen/Elsaß,Majoristischer Streit
+02-0755,02-0879,1562,Mühlhausen/Elsaß,Abendmahlslehre und Christologie / allgemeiner Druck
+02-0852,02-0034,1584,Neustadt a.d. Hardt,Abendmahlslehre und Christologie
+02-0034,02-0852,1584,Neustadt a.d. Hardt,Abendmahlslehre und Christologie
+02-0824,02-0673,1551,Nürnberg,Osiandrischer Streit
+02-1029,02-0673,1551,Nürnberg,Osiandrischer Streit
+02-0741,02-0691,1579,Nürnberg,Diskussion FC
+02-0879,02-0691,1579,Nürnberg,Diskussion FC
+02-0758,02-0691,1579,Nürnberg,Diskussion FC
+02-0691,02-0741,1579,Nürnberg,Diskussion FC
+02-0879,02-0741,1579,Nürnberg,Diskussion FC
+02-0758,02-0741,1579,Nürnberg,Diskussion FC
+02-0741,02-0758,1579,Nürnberg,Diskussion FC
+02-0691,02-0758,1579,Nürnberg,Diskussion FC
+02-0879,02-0758,1579,Nürnberg,Diskussion FC
+02-0673,02-0824,1551,Nürnberg,Osiandrischer Streit
+02-1029,02-0824,1551,Nürnberg,Osiandrischer Streit
+02-0829,02-0827,1555,Nürnberg,Osiandrischer Streit
+02-0827,02-0829,1555,Nürnberg,Osiandrischer Streit
+02-0741,02-0879,1579,Nürnberg,Diskussion FC
+02-0691,02-0879,1579,Nürnberg,Diskussion FC
+02-0758,02-0879,1579,Nürnberg,Diskussion FC
+02-0673,02-1029,1551,Nürnberg,Osiandrischer Streit
+02-0824,02-1029,1551,Nürnberg,Osiandrischer Streit
+02-0737,02-0716,1575,Oberursel/Taunus,allgemeiner Druck
+02-0716,02-0737,1575,Oberursel/Taunus,allgemeiner Druck
+02-0722,02-0716,1562,Regensburg,Majoristischer Streit
+02-0879,02-0716,1562,Regensburg,Synergistischer Streit
+02-0722,02-0716,1562,Regensburg,Synergistischer Streit
+02-0722,02-0716,1556,Regensburg,Adiaphoristischer Streit
+02-0716,02-0722,1562,Regensburg,Majoristischer Streit
+02-0716,02-0722,1562,Regensburg,Synergistischer Streit
+02-0716,02-0722,1556,Regensburg,Adiaphoristischer Streit
+02-0782,02-0722,1560,Regensburg,Abendmahlslehre und Christologie
+02-0873,02-0722,1568,Regensburg,Majoristischer Streit
+02-0722,02-0782,1560,Regensburg,Abendmahlslehre und Christologie
+02-0722,02-0873,1568,Regensburg,Majoristischer Streit
+02-0716,02-0879,1562,Regensburg,Synergistischer Streit
+02-0889,02-0718,1575,Rostock,Abendmahlslehre und Christologie
+02-0718,02-0889,1575,Rostock,Abendmahlslehre und Christologie
+02-0802,02-0481,1578,s.l.,Diskussion FC
+02-0999,02-0481,1578,s.l.,Diskussion FC
+02-0687,02-0652,1564,s.l.,Synergistischer Streit
+02-0852,02-0652,1564,s.l.,Synergistischer Streit
+02-0924,02-0676,1552,s.l.,Osiandrischer Streit
+02-0706,02-0676,1552,s.l.,Osiandrischer Streit
+02-0852,02-0687,1564,s.l.,Synergistischer Streit
+02-0652,02-0687,1564,s.l.,Synergistischer Streit
+02-0971,02-0701,1569,s.l.,Abendmahlslehre und Christologie
+02-0924,02-0706,1552,s.l.,Osiandrischer Streit
+02-0676,02-0706,1552,s.l.,Osiandrischer Streit
+02-0961,02-0716,1574,s.l.,Erbsündenstreit
+02-0820,02-0716,1561,s.l.,Synergistischer Streit
+02-0852,02-0716,1562,s.l.,Synergistischer Streit / Erbsündenstreit
+02-0852,02-0716,1563,s.l.,Synergistischer Streit / Erbsündenstreit
+02-0800,02-0789,1551,s.l.,Osiandrischer Streit
+02-0789,02-0800,1551,s.l.,Osiandrischer Streit
+02-0481,02-0802,1578,s.l.,Diskussion FC
+02-0999,02-0802,1578,s.l.,Diskussion FC
+02-0716,02-0820,1561,s.l.,Synergistischer Streit
+02-0687,02-0852,1564,s.l.,Synergistischer Streit
+02-0652,02-0852,1564,s.l.,Synergistischer Streit
+02-0716,02-0852,1563,s.l.,Synergistischer Streit / Erbsündenstreit
+02-0716,02-0852,1562,s.l.,Synergistischer Streit / Erbsündenstreit
+02-1003,02-0887,1578,s.l.,Diskussion FC
+02-0706,02-0924,1552,s.l.,Osiandrischer Streit
+02-0676,02-0924,1552,s.l.,Osiandrischer Streit
+02-0716,02-0961,1574,s.l.,Erbsündenstreit
+02-0701,02-0971,1569,s.l.,Abendmahlslehre und Christologie
+02-0481,02-0999,1578,s.l.,Diskussion FC
+02-0802,02-0999,1578,s.l.,Diskussion FC
+02-0887,02-1003,1578,s.l.,Diskussion FC
+02-1029,02-0673,1555,Straßburg,Allgemeiner Druck
+02-0879,02-0782,1561,Straßburg,Antikatholisch
+02-0782,02-0879,1561,Straßburg,Antikatholisch
+02-0673,02-1029,1555,Straßburg,Allgemeiner Druck
+02-0716,02-0655,1574,Tübingen,Erbsündenstreit
+02-0933,02-0673,1561,Tübingen,Abendmahlslehre und Christologie
+02-0655,02-0716,1574,Tübingen,Erbsündenstreit
+02-0673,02-0933,1561,Tübingen,Abendmahlslehre und Christologie
+02-1029,02-0782,1576,Uelzen,Obrigkeitliche Dokumente
+02-0782,02-1029,1576,Uelzen,Obrigkeitliche Dokumente
+02-0838,02-0782,1557,Ulm,Schwenckfeld
+02-0782,02-0838,1557,Ulm,Schwenckfeld
+02-0775,02-0089,1556,Wittenberg,Allgemeiner Druck
+02-0676,02-0089,1556,Wittenberg,Allgemeiner Druck
+02-0782,02-0089,1556,Wittenberg,Allgemeiner Druck
+02-0782,02-0415,1555,Wittenberg,Adiaphoristischer Streit
+02-0852,02-0583,1562,Wittenberg,Synergistischer Streit
+02-0775,02-0676,1556,Wittenberg,Allgemeiner Druck
+02-0089,02-0676,1556,Wittenberg,Allgemeiner Druck
+02-0782,02-0676,1556,Wittenberg,Allgemeiner Druck
+02-0784,02-0706,1562,Wittenberg,Antinomistischer Streit
+02-0939,02-0706,1562,Wittenberg,Antinomistischer Streit
+02-0893,02-0706,1562,Wittenberg,Antinomistischer Streit
+02-1029,02-0716,1552,Wittenberg,Osiandrischer Streit
+02-0782,02-0741,1553,Wittenberg,Osiandrischer Streit
+02-0676,02-0775,1556,Wittenberg,Allgemeiner Druck
+02-0089,02-0775,1556,Wittenberg,Allgemeiner Druck
+02-0782,02-0775,1556,Wittenberg,Allgemeiner Druck
+02-0775,02-0782,1556,Wittenberg,Allgemeiner Druck
+02-0676,02-0782,1556,Wittenberg,Allgemeiner Druck
+02-0089,02-0782,1556,Wittenberg,Allgemeiner Druck
+02-0415,02-0782,1555,Wittenberg,Adiaphoristischer Streit
+02-0809,02-0782,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0809,02-0782,1572,Wittenberg,Abendmahlslehre und Christologie
+02-0741,02-0782,1553,Wittenberg,Osiandrischer Streit
+02-0809,02-0782,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0791,02-0782,1555,Wittenberg,Osiandrischer Streit
+02-0809,02-0782,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0809,02-0782,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0809,02-0782,1572,Wittenberg,Abendmahlslehre und Christologie
+02-0810,02-0784,1559,Wittenberg,Majoristischer Streit
+02-0706,02-0784,1562,Wittenberg,Antinomistischer Streit
+02-0939,02-0784,1562,Wittenberg,Antinomistischer Streit
+02-0893,02-0784,1562,Wittenberg,Antinomistischer Streit
+02-1001,02-0786,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0820,02-0786,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0875,02-0786,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0953,02-0786,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0782,02-0791,1555,Wittenberg,Osiandrischer Streit
+02-0782,02-0809,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0782,02-0809,1572,Wittenberg,Abendmahlslehre und Christologie
+02-0782,02-0809,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0782,02-0809,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0782,02-0809,1571,Wittenberg,Abendmahlslehre und Christologie
+02-0782,02-0809,1572,Wittenberg,Abendmahlslehre und Christologie
+02-0784,02-0810,1559,Wittenberg,Majoristischer Streit
+02-0786,02-0820,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-1001,02-0820,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0875,02-0820,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0953,02-0820,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0583,02-0852,1562,Wittenberg,Synergistischer Streit
+02-0786,02-0875,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-1001,02-0875,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0820,02-0875,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0953,02-0875,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0706,02-0893,1562,Wittenberg,Antinomistischer Streit
+02-0784,02-0893,1562,Wittenberg,Antinomistischer Streit
+02-0939,02-0893,1562,Wittenberg,Antinomistischer Streit
+02-0706,02-0939,1562,Wittenberg,Antinomistischer Streit
+02-0784,02-0939,1562,Wittenberg,Antinomistischer Streit
+02-0893,02-0939,1562,Wittenberg,Antinomistischer Streit
+02-0786,02-0953,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-1001,02-0953,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0820,02-0953,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0875,02-0953,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0786,02-1001,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0820,02-1001,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0875,02-1001,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0953,02-1001,1573,Wittenberg,Abendmahlslehre und Christologie / Allgemeiner Druck
+02-0716,02-1029,1552,Wittenberg,Osiandrischer Streit
+02-1029,02-0782,1576,Wolfenbüttel,Obrigkeitliche Dokumente
+02-0782,02-1029,1576,Wolfenbüttel,Obrigkeitliche Dokumente
+02-0842,02-0770,1576,Zürich,Allgemeiner Druch
+02-0770,02-0842,1576,Zürich,Allgemeiner Druch
